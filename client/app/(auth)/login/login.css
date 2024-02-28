@@ -1,0 +1,7 @@
+.wrapper{
+    background-image: url(/login-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
